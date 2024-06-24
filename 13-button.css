@@ -1,0 +1,13 @@
+button {
+    color: brown;
+    border: 2px solid green;
+    size: 40px;
+    width: 200px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
