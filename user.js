@@ -7,8 +7,7 @@ export class User {
 
     }
     do() {
-
         this.task.run();
-
     }
 }
+
